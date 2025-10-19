@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- Currently attending my last semester of studies at FEUP.
+
 <h2 align = "center" >Projects</h2>
 <p align = "center">
 
