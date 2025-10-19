@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Currently attending my last semester of studies at FEUP.
+- Currently attending my last semester of studies at the University of Porto, Portugal.
 
 <h2 align = "center" >Projects</h2>
 <p align = "center">
