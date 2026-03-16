@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Currently attending my last semester of studies at the University of Porto, Portugal.
+- Recent graduate in Informatics and Computing Engineering from the Faculty of Engineering of the University of Porto. 
 
 <h2 align = "center" >Projects</h2>
 <p align = "center">
